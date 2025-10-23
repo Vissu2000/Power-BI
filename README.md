@@ -1,5 +1,6 @@
 Insurence basic Power BI dashboard 
 
+Dashboard link : https://app.powerbi.com/reportEmbed?reportId=57a464bc-381b-4806-a7d2-4c41a83d326c&autoAuth=true&ctid=9868fc70-27c3-41ea-bbb2-5dbb02e37350
 
 Problem statement
 
